@@ -25,8 +25,8 @@
   },
   "homepage": "https://github.com/Vsoto7697/MERN-Book-Search-Engine#readme",
   "dependencies": {
-    "apollo-server-express": "^3.11.1",
-    "faker": "^6.6.6",
+    "apollo-server-express": "^1.4.0",
+    "faker": "^5.5.3",
     "graphql": "^16.6.0",
     "jsonwebtoken": "^9.0.0",
     "jwt-decode": "^3.1.2",
